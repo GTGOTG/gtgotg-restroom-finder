@@ -1,0 +1,32 @@
+{
+  "name": "GTGOTG - Got To Go On The Go",
+  "short_name": "GTGOTG",
+  "description": "Find clean, safe, and accessible restrooms wherever you are",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#8B5CF6",
+  "theme_color": "#8B5CF6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/gtgotg-favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/gtgotg-app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/gtgotg-app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["utilities", "lifestyle", "travel"],
+  "lang": "en-US",
+  "scope": "/",
+  "id": "gtgotg-app"
+}
+
